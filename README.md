@@ -1,6 +1,6 @@
 # Nishant Singh — Portfolio
 
-A responsive, dependency-free personal portfolio built with HTML, CSS, and JavaScript. Inspired by the editorial layout of https://rittamdebnath.in/; original implementation and artwork, personalized using Nishant’s supplied SDE resume and https://github.com/nishantsingh93.
+A responsive, dependency-free personal portfolio built with HTML, CSS, and JavaScript: https://github.com/nishantsingh93.
 
 ## Local preview
 
